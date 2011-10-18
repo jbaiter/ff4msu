@@ -1,0 +1,17 @@
+Final Fantasy IV, MSU Edition
+=============================
+
+This romhack modifies Final Fantasy IV/II (US and JP) to support rendered
+cutscenes (and maybe in the future, orchestral soundtracks) from the
+PSX/DS/PSP ports on the SNES, through byuu's MSU1 extension for the SNES[1].
+
+Currently the Introductory sequence (before the main menu) and the opening
+cutscene are implemented.
+
+The code is held very general, as to provide a blueprint for similar projects
+for other games.
+
+The code is written in the "snes-cpu" syntax for byuu's BASS-Assembler[2].
+
+[1] http://byuu.org/snes/msu1/
+[2] http://byuu.org/programming/

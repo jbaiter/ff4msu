@@ -1,0 +1,2 @@
+- Outro FMV not playing, MSU_DATA only reads '00', although MSU is present and detected, data_read bit of MSU_STATUS is clear as well -> issue with loading from savestate?
+- Horizontal garbage for a brief moment before fadeout when skipping video -> HDMA issue?

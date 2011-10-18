@@ -1,0 +1,59 @@
+Nothing [00]            SPC
+Final Fantasy [01]      #1.06 - Opening
+Wishing Tower [02]      ?2.02 - Long Way to Go 1
+Fanfare (Dummy) [03]    #2.27 - Jingle
+Yellow Chocobo [04]     #1.12 - Chocobo
+Black Chocobo [05]      #2.07 - Samba de Chocobo
+Underworld [06]         ?2.10 - Land of Dwarves
+Zeromus [07]            #2.19 - The Final Battle
+Victory Fanfare [08]    #1.10 - Victory Fanfare
+Town [09]               #1.07 - Town Theme
+Rydia [0A]              #1.16 - Rydia
+Boss Music [0B]         ?2.04 - Battle with Golbeza's Four Emperors
+Mt. Ordeals [0C]        #1.20 - Mt. Ordeals
+Overworld [0D]          #1.08 - Final Fantasy IV Main Theme
+Big Whale [0E]          #2.15 - Magical Ship
+Sad Music [0F]          #1.18 - Theme of Sorrow
+
+Tent/Cabin [10]         #2.27 - Jingle
+Golbez [11]             #1.24 - Golbeza, Clad in the Dark
+Sorrow [12]             #1.19 - Gilbart's Lute
+Rosa [13]               #1.05 - Theme of Love
+Baron Castle [14]       #1.04 - Kingdom Baron
+The Prelude [15]        #1.02 - Prelude
+Suspicions [16]         #1.23 - Theme of Suspicion
+Tower of Zot [17]       #2.13 - Tower of Zot
+Airship [18]            #2.05 - Airship
+Tower of Bab-il [19]    #2.08 - Tower of Bab-il
+Fight 2 [1A]            #1.14 - Battle 2
+Within the Giant [1B]   #2.18 - Giant's Dungeon
+Cave of Summoned Monsters [1C]  #2.14 - Town of Illusions
+Destruction [1D]        #1.15 - Ring of Bomb
+Lunar Path [1E]         #2.17 - The Lunarians
+Surprise! [1F]          #2.27 - Jingle
+
+Dwarf Castle [20]       ?2.11 - King Giott's Castle
+Palom/Porom [21]        #2.03 - Palom & Porom's Theme
+Calcobrena [22]         #2.12 - Dancing Doll Calcobrena
+Hurry! [23]             ?1.22 - Escape
+Cid [24]                #1.25 - Boss Cid
+Into the Darkness [25]  #1.13 - Dungeon
+Dancing Music [26]      #2.26 - Dancing Girl
+Fight 1 [27]            #1.09 - Battle 1
+Castle Eblan [28]       #1.17 - Castle Damcyan
+Character Joined! [29]  #2.27 - Jingle
+Character Died [2A]     #2.27 - Jingle
+Chocobo Forest [2B]     #2.25 - Chocobo Forest
+Opening [2C]            #1.03 - Red Wings
+Sad 2 [2D]              ?2.27 - Jingle
+Castle Fabul [2E]       #1.21 - Fabul
+Fanfare (Became a Paladin) [2F] #2.24 - Paladin
+
+Lard Ass Chocobo [30]   #1.11 - Fat Chocobo's Appearance
+Moon's Surface [31]     #2.16 - Another Moon
+Toroia [32]             #2.06 - Troia
+Mysidia [33]            #2.01 - Mysidia
+Lunar Subterrane [34]   ???
+Ending Part 1 [35]      #2.20 - Ending Theme 1
+Ending Part 2 [36]      #2.21 - Ending Theme 2
+Ending Part 3 [37]      #2.22 - Ending Theme 3
